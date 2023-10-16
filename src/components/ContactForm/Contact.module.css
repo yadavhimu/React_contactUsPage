@@ -7,7 +7,7 @@
 
 .top_btn{
     display:flex;
-    gap:32px;  
+    gap:30px;  
 }
 
 
@@ -38,6 +38,7 @@
 .form_control textarea{
     padding:8px;
 }
+
 
 .form_control label {
     font-size: 14px;
